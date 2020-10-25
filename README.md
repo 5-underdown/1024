@@ -1,7 +1,11 @@
 # 1024
 if you like this gadget,please help write more love words in different programming language
-#include <stdio.h>
+
+
+#include<stdio.h>
+
 #include <math.h>
+
 int main(){
 	int i,l,o,v,e,u;
 	printf("今日的浪漫\n");
